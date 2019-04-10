@@ -13,7 +13,7 @@ class ItemDetails extends Component {
                       <img src={item_img} width="100%" height="90%"/>
                   </div>
                   <div className="col-sm-6">
-                          <div>{item.name}</div>
+                          <h4>{item.name}</h4>
                           <h5>{item.description}</h5>
                           <p>Price: Rs {item.price}</p>
                           <a href="#" class="btn btn-primary">Add to cart</a>
