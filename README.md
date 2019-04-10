@@ -1,2 +1,2 @@
 # Ecommerce
-Ecommerce website made in MERN stack
+An ecommerce website made in MERN stack
