@@ -20,7 +20,7 @@ class ItemList extends Component {
       );
     });
     return (
-      <div>
+      <div> 
         <Carousel/>
         <div className="row" style={{marginTop:'15px'}}>
         {listOfItems}
